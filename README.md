@@ -6,3 +6,4 @@ P300_CNN_Dave.m is the key function discribe the bp process in CNN;<br>
 P300_CNNapplygrads.m calculates network output;<br>
 P300_CNNff1.m calculates the weight delta;<br>
 Note:ALL THIS FUNCTION ARE RUN IN P300 DATA PREPROCESSED FROM BCI COMPITITION III DATA II \<Subject_A_Test_120Hz.mat & Subject_A_Train_120Hz.mat\>.
+http://pan.baidu.com/s/1qWBjYhu
